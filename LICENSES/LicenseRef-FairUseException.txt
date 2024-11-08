@@ -1,0 +1,10 @@
+# FairUseException pseudo-license
+
+The assets declared under this pseudo-license is used under the Fair use exception of the copyright law.
+
+Refer to the following Wikipedia article for more info regarding the Fair use concepts:
+
+Fair use - Wikipedia
+https://en.wikipedia.org/wiki/Fair_use
+
+Unless your usage is also applicable under the same exception you should ask the copyright holder for permission beforehand.
