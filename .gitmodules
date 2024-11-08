@@ -7,3 +7,7 @@
 #
 # Copyright 2024 林博仁(Buo-ren Lin) <buo.ren.lin@gmail.com>
 # SPDX-License-Identifier: CC-BY-SA-4.0
+[submodule "Nine Sols playthrough with proper Chinese name pronunciations"]
+	path = Nine Sols playthrough with proper Chinese name pronunciations
+	url = https://gitlab.com/brlin/nine-sols-chinese-name-pronunciations-playthrough.git
+	ignore = dirty
